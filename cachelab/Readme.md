@@ -1,10 +1,10 @@
 # Cache Lab
 
-The code has the typical homework quality.
+The code has typical homework quality.
 
 ## Cache Simulator
 
-This was a realtively easy exercise, because we don't need to care about the blocks at all.
+This was a relatively easy exercise, because we don't need to care about the blocks at all.
 My solution passes the tests, although I wouldn't be surprised if there was an off-by-one error in there.
 
 ## Matrix Transposition
